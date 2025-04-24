@@ -1,3 +1,3 @@
-# PD_superteam
+# Coupling_Integration
 
-A repository of all the code and programs needed for the Parkinson's disease research clinic regarding consciousness, neurodegeneration and sleep. 
+A repository of all the code and programs needed for the analysis conducted in "Functional MRI signatures of progression and phenoconversion in prodromal synucleinopathy and their biological correlates"
